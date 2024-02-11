@@ -9,6 +9,11 @@ Steps to run the project with Docker
 3. In the project root run `docker-compose build` and `docker-compose up`
 4. Go to `localhost` to view the chatbot
 
+Quiz Bot Working
+
+1. Start the quiz by sending 'Start' to the bot, It will initialize the Quiz Bot.
+2. Answer the questions using [1, 2, 3, 4] from the given options
+3. Quiz Consist of 10 questions, once all questions are ended, user will get the score earned.
 
 Steps to run the project without Docker
 
